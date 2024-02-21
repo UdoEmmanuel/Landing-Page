@@ -3,6 +3,7 @@
     box-sizing: border-box; /* making all width and height calculation to be one */
     margin: 0; /* changing the default margin of elements to 0 */
     padding: 0;
+    scroll-behavior: smooth;
 }
 
 body {
